@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nguyen Thi Hieu  
 
 🎓 **Information Technology Student** at Danang University of Technology and Education  
-💡 Passionate about **Business Analysis** and **Web Development**  
+💡 Passionate about **Business Analysis**, **Web Development**, and **Software Testing**  
 🚀 Always eager to learn and contribute to real-world projects  
 
 ---
@@ -28,6 +28,7 @@
 | [📚 Audiobook App](https://github.com/Nhuwynee/CuoiKy_Nhom8) | Android app to sell and stream audiobooks | Java, PHP, MySQL |
 | [🌦 PM2.5 Prediction Model](https://github.com/NguyenHieu0303/MLP-PM2.5-prediction) | Machine Learning model predicting PM2.5 levels | Python, scikit-learn |
 | [🏘 Population & Household Management System](https://github.com/VanBinhIT/224_QuanLyNhanKhauHoKhauXaPhuong_Nhom37) | System to manage population, household registration, temporary/permanent residence, birth/death registration for commune/ward authorities | C#, HTML, CSS, SQL Server |
+| [✈️ FlyScoot Website Testing](https://github.com/NguyenHieu0303/flyscoot_website_testing) | Manual testing project for FlyScoot flight booking website, focusing on **Add-ons** and **Review** functions. Includes detailed test cases document. | Manual Testing, Test Case Design |
 
 ---
 
@@ -35,5 +36,3 @@
 - 📱 **Phone**: 0397688616  
 - 📧 **Email**: hieuvtk219@gmail.com  
 - 📄 **[My CV](#)**
-
----
